@@ -85,4 +85,5 @@ tbody, td {
 .planetname {
   font-size: 24pt;
   padding: 3px;
+  text-align: center;
 }
