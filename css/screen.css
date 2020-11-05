@@ -31,7 +31,7 @@ thead, th {
   border-radius: 10px;
   border-style: groove;
   border-color: #78c8e6;
-  font-weight: 750;
+  font-weight: bold;
   padding: 5px;
 }
 tbody, td {
@@ -58,11 +58,11 @@ tbody, td {
 .title {
   font-size: 35pt;
   color: #f5fcff;
-  font-weight: 750;
+  font-weight: bold;
   display: flex;
   justify-content: center;
   align-items: center;
-  text-aligh: center;
+  text-align: center;
 }
 .caption {
   font-size: 20pt;
