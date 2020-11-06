@@ -9,6 +9,7 @@ img {
   align-self: center; 
   height: auto; 
   border-radius: 10%;
+  align-items: center;
 }
 body {
   align-items: center;
