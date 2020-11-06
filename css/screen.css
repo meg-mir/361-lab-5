@@ -27,6 +27,7 @@ table {
   padding: 3px;
   border-radius: 10px;
   background: #088ad4;
+  text-align: center;
 }
 thead, th {
   border-radius: 10px;
