@@ -6,6 +6,9 @@ html {
 }
 img {
   max-width: 70%;
+  align-self: center; 
+  height: auto; 
+  border-radius: 10%;
 }
 body {
   align-items: center;
