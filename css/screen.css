@@ -14,7 +14,7 @@ img {
 body {
   align-items: center;
   margin: auto;
-  background-color: #0000cf;
+  background-color: #2626bf;
   color: #d9d9f8;
   font-weight: 400;
 }
@@ -26,7 +26,7 @@ table {
   border-style: dotted;
   padding: 3px;
   border-radius: 10px;
-  background: #176694;
+  background: #088ad4;
 }
 thead, th {
   border-radius: 10px;
@@ -45,10 +45,10 @@ tbody, td {
   font-size: 20pt;
 }
 #mars {
-  color: #cc0000;
+  color: #cc4c73;
 }
 #saturn {
-  color: #ffd629;
+  color: #ff9933;
 }
 #venus {
   color: #ffe88c;
@@ -64,6 +64,7 @@ tbody, td {
   justify-content: center;
   align-items: center;
   text-align: center;
+  padding-bottom: 10px;
 }
 .caption {
   font-size: 20pt;
@@ -72,10 +73,10 @@ tbody, td {
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding-bottom: 10px;
+  padding-bottom: 45px;
 }
 .dataheads {
-  color: #ababc7;
+  color: #99CCFF;
   font-size: 15pt;
   font-variant: small-caps;
 }
